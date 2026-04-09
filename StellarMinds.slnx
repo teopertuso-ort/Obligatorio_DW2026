@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CasosUso/CasosUso.csproj" Id="44025dc8-cea3-41ae-a9d6-c6a0bb9b56a6" />
+  <Project Path="Excepciones/Excepciones.csproj" />
+  <Project Path="LogicaAccesoDatos/LogicaAccesoDatos.csproj" />
+  <Project Path="LogicaAplicacion/LogicaAplicacion.csproj" />
+  <Project Path="LogicaNegocio/LogicaNegocio.csproj" />
+  <Project Path="WebApi/PresentacionWebMVC.csproj" Id="34e0998e-852d-4958-8f0e-0932309a0788" />
+</Solution>

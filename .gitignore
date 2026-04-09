@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# .NET
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# Rider / VSCode (por si usás después)
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
